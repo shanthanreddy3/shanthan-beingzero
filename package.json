@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shanthanreddy3/shanthan-beingzero/issues"
   },
-  "homepage": "https://github.com/shanthanreddy3/shanthan-beingzero#readme"
+  "homepage": "https://github.com/shanthanreddy3/shanthan-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
